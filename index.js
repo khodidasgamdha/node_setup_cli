@@ -22,7 +22,7 @@ program
 program
     .command("create-module <moduleName...>")
     .alias("cm")
-    .description("Created Node Module.")
+    .description("Create a new Node Module.")
     .action((module) => {
         CreateModule(basePath, module);
     });
