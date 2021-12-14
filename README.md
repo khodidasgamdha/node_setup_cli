@@ -1,1 +1,1 @@
-### Generate Node Setup using CLI with MySQL DB (Sequelize)
+### Generate Node Setup using CLI
