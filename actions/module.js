@@ -82,7 +82,7 @@ module.exports = {
                 }
 
                 if(duplicates.length > 0) {
-                    console.log(chalk.red('WARN : ') + chalk.yellowBright(`Module with Name ${duplicates} already exists.`));
+                    console.log(chalk.red('WARN : ') + chalk.yellowBright(`Module name ${duplicates} already exists.`));
                 } else {
                     console.log(chalk.green("All Module created successfully..."));
                 }
