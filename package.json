@@ -1,7 +1,7 @@
 {
-    "name": "node_sequelize_cli",
+    "name": "node_setup_cli",
     "version": "1.0.0",
-    "description": "Node CLI for Generating Node Setup with MySQL DB (Sequelize)",
+    "description": "Node CLI for Generating Node Setup",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
